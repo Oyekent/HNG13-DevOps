@@ -4,4 +4,4 @@
 
 **Project Description:** Deployment of NGINX web server locally for DevOps Stage O Task. 
 
-**Server IP/Domain:** 41.222.208.98/https://rickey-unriveting-johanna.ngrok-free.dev/
+**Server IP/Domain:** 192.168.64.4/https://ensuring-properly-beauty-grant.trycloudflare.com
